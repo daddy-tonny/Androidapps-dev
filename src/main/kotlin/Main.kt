@@ -15,7 +15,8 @@ import util.ConsoleUtils
  * ║    • Classes, Data Classes, Abstract Classes                ║
  * ║    • Inheritance  (BaseCalculator → Standard/StrictCalc)    ║
  * ║    • Interfaces   (Calculable)                              ║
- * ║    • Companion Object (factory lambda in StandardCalculator) ║
+ * ║    • Compa
+ * nion Object (factory lambda in StandardCalculator) ║
  * ║    • Lambda expressions & higher-order functions            ║
  * ║    • Extension-style helper objects                         ║
  * ╚══════════════════════════════════════════════════════════════╝
